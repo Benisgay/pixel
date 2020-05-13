@@ -15,6 +15,6 @@ Pixel is a minimalistic website framework intended to provide a clean and respon
  - Modals;
  - Easy styling for buttons.
  
-See the [testing ground](https://hircinus.github.io/pixel/) for an example or our [documentation](https://github.com/Hircinus/pixel/tree/master/docs) for additional details on features.
+See the [testing ground](https://hircinus.github.io/pixel/) for an example or our [documentation](https://github.com/Hircinus/pixel/tree/master/docs) for additional details on features..
 
 
